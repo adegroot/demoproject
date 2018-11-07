@@ -43,7 +43,7 @@ public class TesterApplication {
 			list2.add(extractKey(item,"orlo"));
 
 			}
-		writeList(list2);
+	//	writeList(list2);
 
 		String key = "orlo";
 		List<Map<String,Object>> list3 =  TestData.getTestData2();
